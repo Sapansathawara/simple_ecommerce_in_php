@@ -1,33 +1,67 @@
-<h1 align="center">Hi 👋, I'm Sapan Sathawara</h1>
-<h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+# Simple E-Commerce Website in php
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapansathawara&label=Profile%20views&color=0e75b6&style=flat" alt="sapansathawara" /> </p>
+This e-commerce project is built entirely using PHP, encompassing both front-end and back-end functionalities. It took approximately 15 to 18 days to complete, focusing on delivering a robust platform for online shopping.
 
-<p align="left"> <a href="https://twitter.com/sapansathawara" target="blank"><img src="https://img.shields.io/twitter/follow/sapansathawara?logo=twitter&style=for-the-badge" alt="sapansathawara" /></a> </p>
 
-- 🌱 I’m currently learning **CodeIgniter, WordPress backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sapansathawara](https://github.com/Sapansathawara)
 
-- 💬 Ask me about **Core PHP, Laravel, MySQL, HTML, CSS, JavaScript and jQuery**
+## Demo
 
-- 📫 How to reach me **sapansathawara4@gmail.com**
+http://meridukaan.site/
 
-- ⚡ Fun fact **I am Funny**
+Explore our demo store.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sapansathawara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sapansathawara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sapan-sathawara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sapan-sathawara" height="30" width="40" /></a>
-</p>
+Demo user:
+- URL: https://meridukaan.site/admin/login.php
+- Username: demo
+- Password: 123456
+## Features
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+- Back End Creation
+- Front End Creation
+- Checkout and COD process
+- Payment Gateway
+- Searching and sorting
+- Email and Mobile Verification
+- Order PDF Invoice
+- Inventory Management
+- Shipping API implementation of Shiprocket
+- Multi-Vendor Implementation
+- Instamojo Payment Gateway
+- Social Media Share
+- Recently Viewed Product
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapansathawara&show_icons=true&locale=en&layout=compact" alt="sapansathawara" /></p>
+## Technologies Used
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapansathawara&show_icons=true&locale=en" alt="sapansathawara" /></p>
+- Languages: Core PHP, HTML, CSS, JavaScript
+- Database: MySQL
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapansathawara&" alt="sapansathawara" /></p>
+
+
+
+
+## Installation
+
+- Clone the repository
+- Set up a local server environment (e.g., XAMPP, WAMP)
+- Import the database file
+- Configure database settings in the project
+## Contributing
+
+- Contributions are welcome. Fork the repository and create a pull request with proposed changes.
+## Lessons Learned
+
+Building this e-commerce platform in PHP offered invaluable lessons. Challenges in integrating payment gateways and managing multiple vendors were overcome through detailed API understanding and structured database design. Key takeaways include the importance of planning, rigorous testing, and continuous learning to navigate complex functionalities. Adaptability and persistence were critical in overcoming hurdles and maintaining a successful development process.
+
+
+## Screenshots
+
+[![meridukaan-site.png](https://i.postimg.cc/mrGrW8XG/meridukaan-site.png)](https://postimg.cc/bZ3PQHf6)
+
+[![meridukaan-site-categories-php-id-8.png](https://i.postimg.cc/fyjbLXJr/meridukaan-site-categories-php-id-8.png)](https://postimg.cc/MfHw3n07)
+
+[![meridukaan-site-product-php-id-28.png](https://i.postimg.cc/JzH958Q1/meridukaan-site-product-php-id-28.png)](https://postimg.cc/SnqTmw55)
+
+[![meridukaan-site-login-php.png](https://i.postimg.cc/prgB2w5Z/meridukaan-site-login-php.png)](https://postimg.cc/K3DTfsNk)
+
