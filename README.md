@@ -57,15 +57,22 @@ Building this e-commerce platform in PHP offered invaluable lessons. Challenges 
 
 ## Screenshots
 
+Home page
+
 ![meridukaan-site.png](https://i.postimg.cc/mrGrW8XG/meridukaan-site.png)
+
+Product Page
 
 ![meridukaan-site-categories-php-id-8.png](https://i.postimg.cc/fyjbLXJr/meridukaan-site-categories-php-id-8.png)
 
+Product Detail Page
+
 ![meridukaan-site-product-php-id-28.png](https://i.postimg.cc/JzH958Q1/meridukaan-site-product-php-id-28.png)
 
-![meridukaan-site-login-php.png](https://i.postimg.cc/prgB2w5Z/meridukaan-site-login-php.png)
+Login & Register Page
 
 ![meridukaan-site-login-php.png](https://i.postimg.cc/prgB2w5Z/meridukaan-site-login-php.png)
+
+Backend Admin Panel Page
 
 ![Screenshot-6.png](https://i.postimg.cc/HLp8xPQ9/Screenshot-6.png)
-
