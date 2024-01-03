@@ -57,7 +57,7 @@ Building this e-commerce platform in PHP offered invaluable lessons. Challenges 
 
 ## Screenshots
 
-[![meridukaan-site.png](https://i.postimg.cc/mrGrW8XG/meridukaan-site.png)](https://postimg.cc/bZ3PQHf6)
+[![meridukaan-site.png](https://i.postimg.cc/mrGrW8XG/meridukaan-site.png)]
 
 [![meridukaan-site-categories-php-id-8.png](https://i.postimg.cc/fyjbLXJr/meridukaan-site-categories-php-id-8.png)](https://postimg.cc/MfHw3n07)
 
