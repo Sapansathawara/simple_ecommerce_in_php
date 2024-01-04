@@ -1,5 +1,5 @@
 
-# Simple E-Commerce Website in php
+# Simple E-Commerce Website in PHP
 
 This e-commerce project is built entirely using PHP, encompassing both front-end and back-end functionalities. It took approximately 15 to 18 days to complete, focusing on delivering a robust platform for online shopping.
 
