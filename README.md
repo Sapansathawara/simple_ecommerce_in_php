@@ -58,21 +58,21 @@ Building this e-commerce platform in PHP offered invaluable lessons. Challenges 
 ## Screenshots
 
 Home page
-
+- A gateway to stylish men's, women's fashion, and cutting-edge electronics.
 ![meridukaan-site.png](https://i.postimg.cc/mrGrW8XG/meridukaan-site.png)
 
 Product Page
-
+- Explore a curated selection of fashion and electronic essentials.
 ![meridukaan-site-categories-php-id-8.png](https://i.postimg.cc/fyjbLXJr/meridukaan-site-categories-php-id-8.png)
 
 Product Detail Page
-
+- Detailed insights into fashion-forward and tech-savvy products.
 ![meridukaan-site-product-php-id-28.png](https://i.postimg.cc/JzH958Q1/meridukaan-site-product-php-id-28.png)
 
 Login & Register Page
-
+- Secure access to your personalized shopping experience.
 ![meridukaan-site-login-php.png](https://i.postimg.cc/prgB2w5Z/meridukaan-site-login-php.png)
 
 Backend Admin Panel Page
-
+- Efficiently manage and control the eCommerce platform's operations.
 ![Screenshot-6.png](https://i.postimg.cc/HLp8xPQ9/Screenshot-6.png)
